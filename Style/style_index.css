@@ -1,0 +1,25 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+
+.card-title a {
+    color: white;  /* Cambia el color a blanco o el que prefieras */
+    text-decoration: none;  /* Quita el subrayado */
+}
+
+.category-bar {
+    white-space: nowrap;
+}
+
+.game-card {
+    background-color: #1e1e1e;
+    border: none;
+    color: white;
+}
+
+.game-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
